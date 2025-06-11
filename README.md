@@ -1,4 +1,4 @@
-# Two-Stage-Op-Amp-CMOS-Design
+# Design-of-Two-Stage-Op-Amp
 
 A Two-Stage OpAmp is a commonly used CMOS amplifier architecture that offers high gain and wide output swing, making it suitable for a variety of analog applications.
 
